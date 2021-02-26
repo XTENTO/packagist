@@ -1,0 +1,7 @@
+{
+    "name": "xtento/packagist",
+    "description": "To claim our namespace :)",
+    "require": {
+        "php": ">=7.4"
+    }
+}
